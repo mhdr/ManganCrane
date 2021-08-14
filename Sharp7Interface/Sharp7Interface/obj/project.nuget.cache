@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Qm7/F4DUs3rCOtIpz7Gu3URHGaOQ1/0/JW8+RmdE99g9f+wjR2VhbqXDCGt3tHbTP+habImrmNdVgoeeSlbWg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ManganCrane\\Sharp7Interface\\Sharp7Interface\\Sharp7Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahmood\\.nuget\\packages\\sharp7\\1.1.79\\sharp7.1.1.79.nupkg.sha512"
+  ],
+  "logs": []
+}
